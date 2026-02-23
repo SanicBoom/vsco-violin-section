@@ -135,5 +135,529 @@
     "trem_vlnens_trem_g2_v2": "trem/VlnEns_Trem_G2_v2.wav",
     "trem_vlnens_trem_g4_v1": "trem/VlnEns_Trem_G4_v1.wav",
     "trem_vlnens_trem_g4_v2": "trem/VlnEns_Trem_G4_v2.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "G2",
+      "sample": "pizz_vlnens_pizz_g2_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G2",
+      "sample": "spic_vlnens_spic_g2_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G2",
+      "sample": "susvib_vlnens_susvib_g2_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G2",
+      "sample": "trem_vlnens_trem_g2_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G2",
+      "sample": "pizz_vlnens_pizz_g2_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G2",
+      "sample": "spic_vlnens_spic_g2_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G2",
+      "sample": "susvib_vlnens_susvib_g2_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G2",
+      "sample": "trem_vlnens_trem_g2_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A2",
+      "sample": "pizz_vlnens_pizz_a2_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A2",
+      "sample": "spic_vlnens_spic_a2_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A2",
+      "sample": "susvib_vlnens_susvib_a2_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A2",
+      "sample": "trem_vlnens_trem_a2_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A2",
+      "sample": "pizz_vlnens_pizz_a2_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A2",
+      "sample": "spic_vlnens_spic_a2_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A2",
+      "sample": "susvib_vlnens_susvib_a2_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A2",
+      "sample": "trem_vlnens_trem_a2_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "B2",
+      "sample": "pizz_vlnens_pizz_b2_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "B2",
+      "sample": "spic_vlnens_spic_b2_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "B2",
+      "sample": "susvib_vlnens_susvib_b2_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "B2",
+      "sample": "trem_vlnens_trem_b2_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "B2",
+      "sample": "pizz_vlnens_pizz_b2_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "B2",
+      "sample": "spic_vlnens_spic_b2_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "B2",
+      "sample": "susvib_vlnens_susvib_b2_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "B2",
+      "sample": "trem_vlnens_trem_b2_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "pizz_vlnens_pizz_d3_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D3",
+      "sample": "spic_vlnens_spic_d3_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D3",
+      "sample": "susvib_vlnens_susvib_d3_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D3",
+      "sample": "trem_vlnens_trem_d3_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D3",
+      "sample": "pizz_vlnens_pizz_d3_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "spic_vlnens_spic_d3_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "susvib_vlnens_susvib_d3_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "trem_vlnens_trem_d3_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F#3",
+      "sample": "pizz_vlnens_pizz_fs3_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F#3",
+      "sample": "spic_vlnens_spic_fs3_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F#3",
+      "sample": "susvib_vlnens_susvib_fs3_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F#3",
+      "sample": "trem_vlnens_trem_fs3_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F#3",
+      "sample": "pizz_vlnens_pizz_fs3_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F#3",
+      "sample": "spic_vlnens_spic_fs3_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F#3",
+      "sample": "susvib_vlnens_susvib_fs3_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A3",
+      "sample": "pizz_vlnens_pizz_a3_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A3",
+      "sample": "spic_vlnens_spic_a3_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A3",
+      "sample": "susvib_vlnens_susvib_a3_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A3",
+      "sample": "trem_vlnens_trem_a3_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A3",
+      "sample": "pizz_vlnens_pizz_a3_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A3",
+      "sample": "spic_vlnens_spic_a3_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A3",
+      "sample": "susvib_vlnens_susvib_a3_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A3",
+      "sample": "trem_vlnens_trem_a3_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "pizz_vlnens_pizz_c4_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "C4",
+      "sample": "spic_vlnens_spic_c4_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "C4",
+      "sample": "susvib_vlnens_susvib_c4_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "C4",
+      "sample": "trem_vlnens_trem_c4_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "C4",
+      "sample": "pizz_vlnens_pizz_c4_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "spic_vlnens_spic_c4_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "susvib_vlnens_susvib_c4_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "trem_vlnens_trem_c4_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "pizz_vlnens_pizz_e4_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "E4",
+      "sample": "spic_vlnens_spic_e4_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "E4",
+      "sample": "susvib_vlnens_susvib_e4_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "E4",
+      "sample": "trem_vlnens_trem_e4_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "E4",
+      "sample": "pizz_vlnens_pizz_e4_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "spic_vlnens_spic_e4_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "susvib_vlnens_susvib_e4_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "trem_vlnens_trem_e4_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G4",
+      "sample": "pizz_vlnens_pizz_g4_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G4",
+      "sample": "spic_vlnens_spic_g4_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G4",
+      "sample": "susvib_vlnens_susvib_g4_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G4",
+      "sample": "trem_vlnens_trem_g4_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G4",
+      "sample": "pizz_vlnens_pizz_g4_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G4",
+      "sample": "spic_vlnens_spic_g4_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G4",
+      "sample": "susvib_vlnens_susvib_g4_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G4",
+      "sample": "trem_vlnens_trem_g4_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "B4",
+      "sample": "pizz_vlnens_pizz_b4_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "B4",
+      "sample": "spic_vlnens_spic_b4_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "B4",
+      "sample": "susvib_vlnens_susvib_b4_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "B4",
+      "sample": "trem_vlnens_trem_b4_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "B4",
+      "sample": "pizz_vlnens_pizz_b4_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "B4",
+      "sample": "spic_vlnens_spic_b4_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "B4",
+      "sample": "susvib_vlnens_susvib_b4_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "B4",
+      "sample": "trem_vlnens_trem_b4_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "pizz_vlnens_pizz_d5_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D5",
+      "sample": "spic_vlnens_spic_d5_v1_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D5",
+      "sample": "susvib_vlnens_susvib_d5_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D5",
+      "sample": "trem_vlnens_trem_d5_v1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D5",
+      "sample": "pizz_vlnens_pizz_d5_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "spic_vlnens_spic_d5_v2_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "susvib_vlnens_susvib_d5_v2",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "trem_vlnens_trem_d5_v2",
+      "loVel": 64,
+      "hiVel": 127
+    }
+  ]
 }
